@@ -44,6 +44,8 @@
 
 <br/>
 
-<h2 align="center">📈 Contribution Activity</h2>
+<h2 align="center">📊 GitHub Contributions</h2>
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhuvan-teki&theme=github-dark&hide_border=true)
+<p align="center">
+  <img src="https://github-contributions.vercel.app/api?username=bhuvan-teki&theme=dark" />
+</p>
