@@ -1,61 +1,46 @@
-<h1 align="center">Hi, I'm Bhuvan 👋</h1>
-<h3 align="center">CS Student | Competitive Programmer | AI & ML Enthusiast</h3>
+<h1 align="center">Hey 👋 What's up?</h1>
 
----
+<h3 align="center">I'm Bhuvan — a Computer Science student building strong fundamentals.</h3>
 
-## 🧠 About Me
-- 🎓 CSE (AI, ML, DS) student  
-- 🧩 Strong interest in **Competitive Programming & System Thinking**
-- 🚀 Long-term goal: build **real tech companies**, not side projects
-- ⚡ Focused on **consistency > motivation**
+<br/>
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp" height="55" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=html" height="55" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" height="55" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=js" height="55" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=python" height="55" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=git" height="55" alt="Git" />
+</div>
 
-## 🔗 Coding Profiles
+<br/>
 
-<p align="left">
-  <a href="https://www.codechef.com/users/bhuvanteki" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-bhuvanteki-brown?style=for-the-badge&logo=codechef" />
+<div align="center">
+  <a href="https://linkedin.com/in/bhuvanteki">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="https://github.com/bhuvan-teki" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-bhuvan--teki-black?style=for-the-badge&logo=github" />
+  <a href="https://instagram.com/bhuvanism">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="25" />
   </a>
-</p>
+  <a href="mailto:bhuvanteki@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <!-- Uncomment once your CodeChef profile exists -->
+  <!--
+  <a href="https://www.codechef.com/users/bhuvanteki">
+    <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&color=5B4638&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  -->
+</div>
 
----
+<br/>
 
-## 📊 GitHub Contributions
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=bhuvan-teki&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bhuvan-teki&theme=dracula&row=1&column=6&margin-w=8" height="150" />
+</div>
 
-<p align="center">
-  <img src="https://github-contributions.vercel.app/?username=bhuvan-teki&theme=dark&area=true" />
-</p>
+<br/>
 
-> This reflects **actual GitHub activity**.  
-> No fake data. No manual coloring.
-
----
-
-## 🧮 CodeChef Stats
-
-<p align="center">
-  <img src="https://codechef-readme-stats.vercel.app/api?username=bhuvanteki&theme=dark&show_icons=true" />
-</p>
-
----
-
-## 📈 Competitive Programming Focus
-- Languages: **C++ / Python**
-- Platforms: **CodeChef, GitHub**
-- Current priority:
-  - Problem solving speed
-  - Pattern recognition
-  - Clean implementations
-
----
-
-## 🛠️ Tech Stack
-```txt
-Languages     : C++, Python, JavaScript
-CS Core       : DSA, OOPS, OS Basics
-AI / ML       : Python, NumPy, Pandas (learning)
-Tools         : Git, GitHub, Linux
+<h2 align="center">📈 Contribution Activity</h2>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhuvan-teki&theme=github-dark&hide_border=true" />
