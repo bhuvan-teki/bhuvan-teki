@@ -1,46 +1,63 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1 align="center">Hi there, I'm Bhuvan! 👋</h1>
 
-<h3 align="center">I'm Bhuvan — a Computer Science student building strong fundamentals.</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Building+Strong+Fundamentals;Competitive+Programmer;Tech+Enthusiast" alt="Typing SVG" />
+</p>
 
-<br/>
+---
+
+### 👨‍💻 About Me
+
+- 🎓 **Student:** Pursuing Computer Science and mastering the core fundamentals.
+- 💡 **Interests:** Data Structures, Algorithms, and building efficient web solutions.
+- 🏆 **Competitive Programming:** Active on [CodeChef](https://www.codechef.com/users/bhuvanteki).
+- 🌱 **Learning:** Currently diving deeper into Backend Development and System Design.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,git,github,vscode,linux,mysql" />
+  </a>
+</p>
+
+---
+
+### 📊 My Stats
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" height="55" alt="C++" />
-  <img src="https://skillicons.dev/icons?i=html" height="55" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" height="55" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=js" height="55" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=python" height="55" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=git" height="55" alt="Git" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhuvan-teki&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" height="180" alt="stats card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan-teki&layout=compact&theme=dracula&border_radius=10" height="180" alt="languages card" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/bhuvanteki">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+  <img src="https://github-profile-trophy.vercel.app?username=bhuvan-teki&theme=dracula&row=1&column=6&margin-w=8" height="120" />
+</div>
+
+---
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhuvan-teki&theme=github-dark&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/bhuvanteki" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/bhuvanism">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="25" />
+  <a href="https://instagram.com/bhuvanism" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:bhuvanteki@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=bhuvan-teki&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=bhuvan-teki&theme=dracula&row=1&column=6" height="150" />
-</div>
-
-<br/>
-
-## 📊 Contribution Calendar
-<a href="https://github-contributions.vercel.app/@bhuvan-teki">
-  <img src="https://github-contributions.vercel.app/api?username=bhuvan-teki&theme=dark" alt="Contribution Calendar" />
-</a>
-
-<br/><br/>
-
-> 💡 *Swipe left/right on mobile to explore my contributions!*
+</p>
