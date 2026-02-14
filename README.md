@@ -121,58 +121,26 @@ A curious Computer Science student from Hyderabad, India — currently mastering
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvan-teki" alt="bhuvan-teki" />
 </p>
 
-name: Generate GitHub Contribution Snake
+## 🧩 Contribution Activity
 
-on:
-  schedule:
-    # Runs every 6 hours
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhuvan-teki/bhuvan-teki/output/snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhuvan-teki/bhuvan-teki/output/snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/bhuvan-teki/bhuvan-teki/output/snake.svg" width="100%">
+</picture>
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-      
-      - name: Generate Snake Animation
-        uses: Platane/snk@v3
-        with:
-          # Your GitHub username
-          github_user_name: bhuvan-teki
-          
-          # Generate both light and dark themes
-          outputs: |
-            dist/snake.svg?palette=github-light
-            dist/snake-dark.svg?palette=github-dark
-            dist/snake.gif?palette=github
-          
-          # Customize colors (optional)
-          # github_colors: |
-          #   - '#ebedf0'
-          #   - '#9be9a8'
-          #   - '#40c463'
-          #   - '#30a14e'
-          #   - '#216e39'
-      
-      - name: Generate Enhanced Snake with Stats
-        run: |
-          # Add a caption to the SVG
-          echo "Generated for @bhuvan-teki | $(date '+%Y-%m-%d %H:%M:%S')" > dist/caption.txt
-      
-      - name: Deploy to Output Branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-          user_name: 'github-actions[bot]'
-          user_email: 'github-actions[bot]@users.noreply.github.com'
-          commit_message: 'Update snake animation [skip ci]'
+---
+
+### 📊 Contribution Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhuvan-teki&show_icons=true&theme=default&hide_title=true)
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan-teki&layout=compact&theme=default)
+
+</div>
+
+---
+
+### 📅 2026 Contribution Calendar
