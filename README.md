@@ -12,6 +12,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bhuvan-teki&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
+![Snake animation](https://raw.githubusercontent.com/bhuvan-teki/bhuvan-teki/output/snake.svg)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=bhuvan-teki&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
