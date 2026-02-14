@@ -111,15 +111,11 @@ A curious Computer Science student from Hyderabad, India — currently mastering
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/bhuvan-teki/bhuvan-teki/output/snake.svg)
-
 
 ## 🧩 Contribution Activity
 
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bhuvan-teki/bhuvan-teki/output/snake.svg" alt="Snake animation" />
-</p>
+![Snake animation](https://raw.githubusercontent.com/bhuvan-teki/bhuvan-teki/output/snake.svg)
+
 
 ---
 
