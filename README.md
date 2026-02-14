@@ -117,8 +117,10 @@ A curious Computer Science student from Hyderabad, India — currently mastering
 
 ## 🧩 Contribution Activity
 
-<!-- Snake animation at bottom (fun but non-distracting) -->
-<img src="https://raw.githubusercontent.com/bhuvan-teki/bhuvan-teki/output/github-contribution-grid-snake2.svg" alt="Snake contribution graph" />
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bhuvan-teki/bhuvan-teki/output/snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
