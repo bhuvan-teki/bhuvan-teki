@@ -21,12 +21,6 @@ A curious Computer Science student from Hyderabad, India — currently mastering
 
 ---
 
-## ✍️ Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -124,10 +118,14 @@ A curious Computer Science student from Hyderabad, India — currently mastering
 ## 🧩 Contribution Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhuvan-teki/bhuvan-teki/output/snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhuvan-teki/bhuvan-teki/output/snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/bhuvan-teki/bhuvan-teki/output/snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/bhuvanteki/bhuvanteki/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/bhuvanteki/bhuvanteki/output/snake.svg" />
+  <img alt="github contribution snake animation"
+    src="https://raw.githubusercontent.com/bhuvanteki/bhuvanteki/output/snake.svg" />
 </picture>
+
 
 ---
 
