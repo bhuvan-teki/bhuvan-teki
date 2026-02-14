@@ -33,10 +33,10 @@ A curious Computer Science student from Hyderabad, India — currently mastering
   <a href="https://linkedin.com/in/bhuvanteki" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/bhuvan-teki" target="_blank">
+  <a href="https://stackoverflow.com/users/32365923/bhuvan-teki" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
   </a>
-  <a href="https://codesandbox.com/bhuvan-teki" target="_blank">
+  <a href="https://codesandbox.io/u/bhuvan-teki" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" height="30" width="40" />
   </a>
   <a href="https://kaggle.com/bhuvanteki" target="_blank">
@@ -51,7 +51,7 @@ A curious Computer Science student from Hyderabad, India — currently mastering
   <a href="https://www.codechef.com/users/bhuvanteki" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/@bhuvanteki" target="_blank">
+  <a href="https://www.hackerrank.com/profile/bhuvanteki" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
   </a>
   <a href="https://codeforces.com/profile/bhuvan-teki" target="_blank">
@@ -63,7 +63,7 @@ A curious Computer Science student from Hyderabad, India — currently mastering
   <a href="https://auth.geeksforgeeks.org/user/bhuvanteki" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
   </a>
-  <a href="https://www.topcoder.com/members/bhuvan-teki" target="_blank">
+  <a href="https://profiles.topcoder.com/bhuvan-teki" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" height="30" width="40" />
   </a>
   <a href="https://rss.app/account" target="_blank">
