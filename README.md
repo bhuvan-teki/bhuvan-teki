@@ -111,9 +111,8 @@ A curious Computer Science student from Hyderabad, India — currently mastering
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvan-teki" alt="bhuvan-teki" />
-</p>
+![Snake animation](https://raw.githubusercontent.com/bhuvan-teki/bhuvan-teki/output/snake.svg)
+
 
 ## 🧩 Contribution Activity
 
