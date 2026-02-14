@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvan-teki&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvan-teki" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhuvan-teki" alt="bhuvan-teki" /></a> </p>
-
 - 🔭 I’m currently working on **Daily DSA practice & small coding exercises**
 
 - 🌱 I’m currently learning **C++ • Data Structures & Algorithms • HTML/CSS/JavaScript • Git & GitHub**
@@ -47,9 +45,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bhuvanteki"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bhuvanteki" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhuvan-teki&show_icons=true&locale=en&layout=compact" alt="bhuvan-teki" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhuvan-teki&show_icons=true&locale=en" alt="bhuvan-teki" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvan-teki&" alt="bhuvan-teki" /></p>
