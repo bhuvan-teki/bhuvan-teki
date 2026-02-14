@@ -46,6 +46,5 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhuvan-teki/bhuvan-teki/output/snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhuvan-teki/bhuvan-teki/output/snake.svg">
   <img alt="contribution graph" src="https://raw.githubusercontent.com/bhuvan-teki/bhuvan-teki/output/snake.svg">
 </picture>
