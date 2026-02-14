@@ -1,34 +1,51 @@
-# 👋 Hi, I’m Bhuvan
+<h1 align="center">Hey 👋 What's up?</h1>
 
-I’m a **Computer Science student** focused on building **strong fundamentals** and converting them into **real, end-to-end projects**.
+<h3 align="center">I'm Bhuvan — a Computer Science student building strong fundamentals.</h3>
 
-Right now, I’m deliberately working on:
-- **C++ & Data Structures** – writing efficient, readable, and logical code  
-- **Web Development** – HTML, CSS, JavaScript (core concepts before frameworks)  
-- **Problem-solving** – thinking in terms of constraints, edge cases, and scalability  
+<br/>
 
-I care more about **depth over hype** and **consistency over shortcuts**.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp" height="55" alt="cpp" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="55" alt="html" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="55" alt="css" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="55" alt="javascript" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="55" alt="python" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="55" alt="git" />
+</div>
 
----
+<br/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhuvanism)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhuvanteki)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/bhuvanteki)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhuvanteki@gmail.com)
+<div align="center">
+  <a href="https://linkedin.com/in/bhuvanteki">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://instagram.com/bhuvanism">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="mailto:bhuvanteki@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://www.codechef.com/users/bhuvanteki">
+    <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&color=5B4638&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+</div>
 
----
+<br/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bhuvan-teki&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bhuvan-teki&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan-teki&theme=dark&hide_border=false&layout=compact)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=bhuvan-teki&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-profile-trophy.vercel.app?username=bhuvan-teki&theme=dracula&row=1&column=6&margin-w=8&no-bg=false" height="150" />
+</div>
 
----
+<br/>
 
-### 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=bhuvan-teki&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=bhuvan-teki&icon=0&color=0)](https://visitcount.itsvg.in)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhuvan-teki/bhuvan-teki/output/snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhuvan-teki/bhuvan-teki/output/snake.svg">
+  <img alt="contribution graph" src="https://raw.githubusercontent.com/bhuvan-teki/bhuvan-teki/output/snake.svg">
+</picture>
