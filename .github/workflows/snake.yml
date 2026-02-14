@@ -2,8 +2,8 @@ name: Generate Snake Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+  workflow_dispatch:     # Allows manual trigger
 
 permissions:
   contents: write
@@ -12,15 +12,25 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - uses: Platane/snk@v3
+      - name: Generate snake.svg with custom colors
+        uses: Platane/snk@v3
         with:
           github_user_name: bhuvan-teki
-          outputs: |
-            dist/snake.svg
+          svg_out_path: dist/snake.svg
+          theme: |
+            {
+              "background": "0d0d0d",
+              "grid": "2d2d2d",
+              "shade1": "4CAF50",
+              "shade2": "2E7D32",
+              "shade3": "1B5E20",
+              "shade4": "00796B",
+              "stroke": "ffffff"
+            }
 
-      - name: Push snake graph
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
