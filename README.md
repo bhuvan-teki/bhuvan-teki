@@ -1,7 +1,22 @@
-# 💫 About Me
-📚 Learning: C++ • DSA • Web (HTML/CSS/JS)  
-🎯 Goals: Build real projects • Land first internship by 2026 • Grow as a developer  
-🧠 Passionate about building tools that empower modern workspaces and future neurotech interfaces
+# 👋 Hi, I’m Bhuvan
+
+I’m a **Computer Science student** focused on building strong fundamentals and turning them into **real, usable projects**.
+
+Right now, I’m deliberately investing time in:
+- **C++ & Data Structures** – writing efficient, readable code
+- **Web Development** – HTML, CSS, JavaScript (logic first, frameworks later)
+- **Problem-solving mindset** – breaking problems before writing code
+
+I’m not chasing hype stacks. I’m building **core skills that compound**.
+
+---
+
+## 🎯 Current Focus
+- Strengthening **DSA + C++** through consistent practice  
+- Building **small but complete projects** (not half-finished demos)  
+- Preparing for my **first software internship (target: 2026)**  
+
+Long-term, I’m interested in **developer tools, AI-driven systems, and future-facing interfaces** — but I’m earning that ambition step by step.
 
 ---
 
@@ -12,11 +27,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
+> These stats reflect consistency and learning in progress — not final expertise.
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bhuvan-teki&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan-teki&layout=compact&theme=dracula&langs_count=5" height="150" />
-  <img src="https://streak-stats.demolab.com/?user=bhuvan-teki&theme=dracula&mode=daily" height="150" />
 </div>
 
 ---
@@ -28,7 +44,6 @@
 
 ---
 
-<!-- Snake animation (will appear after GitHub Action runs) -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/bhuvan-teki/bhuvan-teki/output/snake.svg" alt="Snake contribution graph" />
 </div>
