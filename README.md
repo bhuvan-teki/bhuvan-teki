@@ -118,6 +118,14 @@ A curious Computer Science student from Hyderabad, India — currently mastering
 ## 🧩 Contribution Activity
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/bhuvan-teki/bhuvan-teki/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/bhuvan-teki/bhuvan-teki/output/snake.svg" />
+  <img alt="github contribution snake animation"
+    src="https://raw.githubusercontent.com/bhuvan-teki/bhuvan-teki/output/snake.svg" />
+</picture>
 
 
 
