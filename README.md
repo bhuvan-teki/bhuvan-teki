@@ -1,51 +1,40 @@
-# 👋 Hi, I’m Bhuvan
-
-I’m a **Computer Science student** focused on building strong fundamentals and turning them into **real, usable projects**.
-
-Right now, I’m deliberately investing time in:
-- **C++ & Data Structures** 
-- **Web Development** 
-- **Problem-solving mindset** 
+# 💫 About Me:
+📚 Learning: C++ • Data Structures & Algorithms • Web (HTML / CSS / JavaScript)  
+<br>🎯 Goals: Build complete, production-ready projects • Secure first software internship by 2026  
+<br>🧠 Interested in developer tools, system design fundamentals, and future human-computer interfaces
 
 ---
 
-## 🎯 Current Focus
-- Strengthening **DSA + C++** through consistent practice  
-- Building **small but complete projects** (not half-finished demos)  
-- Preparing for my **first software internship (target: 2026)**  
-
-Long-term, I’m interested in **developer tools, AI-driven systems, and future-facing interfaces** — but I’m earning that ambition step by step.
-
----
-
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhuvanteki)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/bhuvanism)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhuvanism)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhuvanteki)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/bhuvanteki)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhuvanteki@gmail.com)
 
 ---
 
-## 📊 GitHub Activity
-> These stats reflect consistency and learning in progress — not final expertise.
+## 🧩 Competitive Programming
+- Practicing **DSA & problem-solving** on CodeChef using **C++**
+- Focus areas: arrays, recursion, basic math, and logical optimization  
+- Profile: 👉 https://www.codechef.com/users/bhuvanteki
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhuvan-teki&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan-teki&layout=compact&theme=dracula&langs_count=5" height="150" />
-</div>
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bhuvan-teki&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=bhuvan-teki&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan-teki&theme=dark&hide_border=false&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhuvan-teki&theme=dracula&row=1&column=4" />
-</div>
+![](https://github-profile-trophy.vercel.app/?username=bhuvan-teki&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/bhuvan-teki/bhuvan-teki/output/snake.svg" alt="Snake contribution graph" />
-</div>
+### 🔝 Top Contributed Repositories
+![](https://github-contributor-stats.vercel.app/api?username=bhuvan-teki&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=bhuvan-teki&icon=0&color=0" alt="Visitor count" />
-</div>
+---
+
+[![](https://visitcount.itsvg.in/api?id=bhuvan-teki&icon=0&color=0)](https://visitcount.itsvg.in)
