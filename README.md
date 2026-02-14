@@ -21,6 +21,15 @@ A curious Computer Science student from Hyderabad, India — currently mastering
 
 ---
 
+## 🧩 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhuvan-teki/bhuvan-teki/output/snake.svg">
+  <img alt="contribution graph" src="https://raw.githubusercontent.com/bhuvan-teki/bhuvan-teki/output/snake.svg">
+</picture>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -108,16 +117,6 @@ A curious Computer Science student from Hyderabad, India — currently mastering
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" />
   </a>
 </p>
-
----
-
-
-## 🧩 Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhuvan-teki/bhuvan-teki/output/snake.svg">
-  <img alt="contribution graph" src="https://raw.githubusercontent.com/bhuvan-teki/bhuvan-teki/output/snake.svg">
-</picture>
 
 ---
 
