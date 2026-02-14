@@ -1,17 +1,17 @@
 <h1 align="center">Hi there, I'm Bhuvan! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Building+Strong+Fundamentals;Competitive+Programmer;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;2nd+Semester+Fundamentals;Competitive+Programmer;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 **Student:** Pursuing Computer Science and mastering the core fundamentals.
-- 💡 **Interests:** Data Structures, Algorithms, and building efficient web solutions.
+- 🎓 **Student:** Currently tackling my 2nd semester in Computer Science.
+- 💡 **Interests:** Mastering Data Structures, Algorithms, and Core Programming.
 - 🏆 **Competitive Programming:** Active on [CodeChef](https://www.codechef.com/users/bhuvanteki).
-- 🌱 **Learning:** Currently diving deeper into Backend Development and System Design.
+- 🎮 **Beyond Code:** Enthusiast in the BGMI esports scene.
 
 ---
 
@@ -25,22 +25,22 @@
 
 ---
 
-### 📊 My Stats
+### 📊 My Stats & Activity
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvan-teki&theme=dark&hide_border=true&background=0D1117" width="100%" alt="Bhuvan's Contribution Streak" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bhuvan-teki&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" height="180" alt="stats card" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan-teki&layout=compact&theme=dracula&border_radius=10" height="180" alt="languages card" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=bhuvan-teki&theme=dracula&row=1&column=6&margin-w=8" height="120" />
-</div>
-
 ---
 
-### 📈 Contribution Activity
+### 📈 Detailed Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhuvan-teki&theme=github-dark&hide_border=true&area=true" width="100%" />
