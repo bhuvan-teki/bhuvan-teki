@@ -25,7 +25,12 @@ A curious Computer Science student from Hyderabad, India — currently mastering
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhuvan-teki/bhuvan-teki/output/snake.svg">
-  <img alt="contribution graph" src="https://raw.githubusercontent.com/bhuvan-teki/bhuvan-teki/output/snake.svg">
+  <img 
+    alt="GitHub contribution graph" 
+    src="https://raw.githubusercontent.com/bhuvan-teki/bhuvan-teki/output/snake.svg"
+    width="1000"
+    style="max-width: 100%; height: auto; display: block; margin: 0 auto;"
+  >
 </picture>
 
 ---
