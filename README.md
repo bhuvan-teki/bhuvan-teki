@@ -1,7 +1,13 @@
-# 💫 About Me:
-📚 Learning: C++ • Data Structures & Algorithms • Web (HTML / CSS / JavaScript)  
-<br>🎯 Goals: Build complete, production-ready projects • Secure first software internship by 2026  
-<br>🧠 Interested in developer tools, system design fundamentals, and future human-computer interfaces
+# 👋 Hi, I’m Bhuvan
+
+I’m a **Computer Science student** focused on building **strong fundamentals** and converting them into **real, end-to-end projects**.
+
+Right now, I’m deliberately working on:
+- **C++ & Data Structures** – writing efficient, readable, and logical code  
+- **Web Development** – HTML, CSS, JavaScript (core concepts before frameworks)  
+- **Problem-solving** – thinking in terms of constraints, edge cases, and scalability  
+
+I care more about **depth over hype** and **consistency over shortcuts**.
 
 ---
 
@@ -13,22 +19,10 @@
 
 ---
 
-## 🧩 Competitive Programming
-- Practicing **DSA & problem-solving** on CodeChef using **C++**
-- Focus areas: arrays, recursion, basic math, and logical optimization  
-- Profile: 👉 https://www.codechef.com/users/bhuvanteki
-
----
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bhuvan-teki&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=bhuvan-teki&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan-teki&theme=dark&hide_border=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bhuvan-teki&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
