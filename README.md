@@ -44,7 +44,6 @@
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhuvan-teki/bhuvan-teki/output/snake.svg">
-  <img alt="contribution graph" src="https://raw.githubusercontent.com/bhuvan-teki/bhuvan-teki/output/snake.svg">
-</picture>
+<h2 align="center">📈 Contribution Activity</h2>
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhuvan-teki&theme=github-dark&hide_border=true)
