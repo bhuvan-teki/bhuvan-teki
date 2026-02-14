@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Bhuvan! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;2nd+Semester+Fundamentals;Competitive+Programmer;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Building+Strong+Fundamentals;Competitive+Programmer;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
@@ -25,26 +25,15 @@
 
 ---
 
-### 📊 My Stats & Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvan-teki&theme=dark&hide_border=true&background=0D1117" width="100%" alt="Bhuvan's Contribution Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhuvan-teki&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" height="180" alt="stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan-teki&layout=compact&theme=dracula&border_radius=10" height="180" alt="languages card" />
-</div>
-
----
-
-### 📈 Detailed Contribution Graph
-
+### 📊 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhuvan-teki&theme=github-dark&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhuvan-teki&theme=github-dark-green&bg_color=0D1117&hide_border=true&area=true" width="100%" />
 </p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhuvan-teki&show_icons=true&theme=transparent&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7&border_radius=10&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan-teki&layout=compact&theme=transparent&title_color=36BCF7&text_color=ffffff&hide_border=true&border_radius=10" height="170" />
+</div>
 
 ---
 
