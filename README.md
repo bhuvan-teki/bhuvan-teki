@@ -131,16 +131,3 @@ A curious Computer Science student from Hyderabad, India — currently mastering
 
 ---
 
-### 📊 Contribution Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhuvan-teki&show_icons=true&theme=default&hide_title=true)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan-teki&layout=compact&theme=default)
-
-</div>
-
----
-
-### 📅 2026 Contribution Calendar
