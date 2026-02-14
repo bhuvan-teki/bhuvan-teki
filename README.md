@@ -3,11 +3,9 @@
 I’m a **Computer Science student** focused on building strong fundamentals and turning them into **real, usable projects**.
 
 Right now, I’m deliberately investing time in:
-- **C++ & Data Structures** – writing efficient, readable code
-- **Web Development** – HTML, CSS, JavaScript (logic first, frameworks later)
-- **Problem-solving mindset** – breaking problems before writing code
-
-I’m not chasing hype stacks. I’m building **core skills that compound**.
+- **C++ & Data Structures** 
+- **Web Development** 
+- **Problem-solving mindset** 
 
 ---
 
