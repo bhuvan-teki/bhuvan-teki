@@ -25,22 +25,22 @@
   <a href="mailto:bhuvanteki@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <!-- Uncomment once your CodeChef profile exists -->
-  <!--
-  <a href="https://www.codechef.com/users/bhuvanteki">
-    <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&color=5B4638&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  -->
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=bhuvan-teki&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=bhuvan-teki&theme=dracula&row=1&column=6&margin-w=8" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bhuvan-teki&theme=dracula&row=1&column=6" height="150" />
 </div>
 
 <br/>
 
-<h2 align="center">📈 Contribution Activity</h2>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhuvan-teki&theme=github-dark&hide_border=true" />
+## 📊 Contribution Calendar
+<a href="https://github-contributions.vercel.app/@bhuvan-teki">
+  <img src="https://github-contributions.vercel.app/api?username=bhuvan-teki&theme=dark" alt="Contribution Calendar" />
+</a>
+
+<br/><br/>
+
+> 💡 *Swipe left/right on mobile to explore my contributions!*
