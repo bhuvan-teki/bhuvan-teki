@@ -33,7 +33,6 @@ A curious Computer Science student from Hyderabad, India — currently mastering
 
 ### 📊 GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhuvan-teki&theme=dark&hide_border=true)](https://git.io/streak-stats)
-<img src="https://github-profile-trophy.vercel.app/?username=bhuvan-teki&theme=dracula&row=1&column=6" height="150" />
 
 ---
 
