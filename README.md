@@ -120,3 +120,9 @@ A curious Computer Science student from Hyderabad, India — currently mastering
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvan-teki" alt="bhuvan-teki" />
 </p>
+
+## 📅 Contribution Calendar (Last 365 Days)
+
+![Contribution Calendar](https://github-contributions.vercel.app/api?username=bhuvan-teki)
+
+> _Green boxes show daily contribution intensity._
