@@ -2,7 +2,7 @@ name: Generate Snake Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # daily
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake animation
+      - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: bhuvan-teki
@@ -18,7 +18,7 @@ jobs:
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
 
-      - name: Push snake files to output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
