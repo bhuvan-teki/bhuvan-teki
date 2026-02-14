@@ -2,13 +2,20 @@ name: Generate Snake Game
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate snake
         uses: Sutil/snk@master
         with:
@@ -16,7 +23,7 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake.svg
           snake_color: blue
 
-      - name: Push to output branch
+      - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v2
         with:
           target_branch: output
