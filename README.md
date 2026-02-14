@@ -66,8 +66,8 @@ A curious Computer Science student from Hyderabad, India — currently mastering
   <a href="https://profiles.topcoder.com/bhuvan-teki" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" height="30" width="40" />
   </a>
-  <a href="https://rss.app/account" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" height="30" width="40" />
+  <a href="https://rss.app/users/bhuvanteki" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" height="30" width="40" />
   </a>
 </p>
 
