@@ -2,24 +2,29 @@ name: generate pacman game
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight UTC
-  workflow_dispatch:      # Allows manual run
+    - cron: "0 0 * * *"   # Daily at 00:00 UTC (5:30 AM IST)
+  workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: [main]
+
+permissions:
+  contents: write
 
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 6
 
     steps:
+      - uses: actions/checkout@v4
+
       - name: Generate Pac-Man SVG
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: bhuvan-teki
+          # Optional: customize theme (e.g., brighter green for today)
+          # gameTheme: github-dark
+          # playerStyle: aggressive
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
