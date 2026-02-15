@@ -31,8 +31,13 @@ A curious Computer Science student from Hyderabad, India — currently mastering
 
 ---
 
-### 📊 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhuvan-teki&theme=dark&hide_border=true)](https://git.io/streak-stats)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bhuvan-teki&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=bhuvan-teki&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan-teki&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
